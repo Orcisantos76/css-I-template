@@ -1,0 +1,29 @@
+header{
+    font-family: Arial,sans-serif;
+    height: 40px;
+    padding: 10px 10px 10px 10px;
+    background-color: orange;
+    color: white;
+    border-bottom: 1px black solid;
+
+}
+main{
+    margin: 15px 15px 15px 15px;
+    padding: 20px 30px;
+    width: 90vw;
+    height: 80vw;
+}
+.destaque{
+    color: rgb(202, 150, 53);
+}
+article{
+    font-family: Helvetica, sans-serif;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+footer{
+    background-color: black;
+    color: white;
+    height: 40px;
+    padding: 10px 10px 10px 10px;
+}
